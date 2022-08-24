@@ -45,7 +45,7 @@ public class Bigbasketscenerio1 extends BaseClass{
 		Choosedeliveryaddress  Choosedeliveryaddress=new Choosedeliveryaddress(driver);
 		Choosedeliveryaddress.searchtxtfield();
 		
-//		Allowlocaccess  Allowlocacce=new Allowlocaccess(driver);
+Allowlocaccess  Allowlocacce=new Allowlocaccess(driver);
 //		Allowlocacce.allowacess();
 //		
 //		Uselocationpage Uselocationpagee=new Uselocationpage(driver);
